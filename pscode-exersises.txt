@@ -10,7 +10,7 @@ Print the sum of the two user numbers
 // Exercise 2: Check if a Number is Even or Odd
 
 Ask user for a number
- Check if number is even
+ Check if number is even (divide by two and see if whole number)
 	If number is even print Even
 Else
  Check if number is odd
@@ -19,8 +19,8 @@ Else
 // Exercise 3: 
 Write pseudo code that will perform the following.    
 
-a) Read in 5 separate numbers.   
-b) Calculate the average of the five numbers.
+a) Input 5 different numbers.(individually ask for them) in 5 separate numbers.   
+b) Calculate the average of the five numbers.(Ave command in C# or Add 1-5 and divide by 5)
 c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
 d) Write out the results found from steps b and c with a message describing what they are
 
@@ -32,8 +32,8 @@ a) ask user to input five seperate numbers
   Input numbr 5, and store
 b) ADD numbers 1 thru 5 THEN DIVIDE by 5 to get the AVERAGE
 C) Arrange numbers from smallest to largest
-   Identify the smallest number as the smallest number MIN
-   Identify the largest number as the largest number MAX
+   Identify the smallest number as the smallest number( MIN )
+   Identify the largest number as the largest number ( MAX )
 d) Console display "AVERAGE = average"
    Console display "The smallest number is  MIN "
    Console display "The largest number is MAX "
